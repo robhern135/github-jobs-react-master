@@ -41,5 +41,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/robhern135/github-jobs-react-master.git",
+  "author": "robhern135 <robertjhern@gmail.com>",
+  "license": "MIT"
 }
