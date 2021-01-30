@@ -9,7 +9,7 @@ const ACTIONS = {
   UPDATE_HAS_NEXT_PAGE: 'update-has-next-page'
 }
 
-const BASE_URL = "https://cors-anywhere.herokuapp.com/https://jobs.github.com/positions.json"
+const BASE_URL = "https://jobs.github.com/positions.json"
 
 function reducer(state, action){
   //reducer function called every time we call dispatch, whatever is passed is held in action variable
