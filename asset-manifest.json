@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/github-jobs-react-master/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/github-jobs-react-master/static/js/main.9f3c09bc.chunk.js",
-    "main.js.map": "/github-jobs-react-master/static/js/main.9f3c09bc.chunk.js.map",
+    "main.js": "/github-jobs-react-master/static/js/main.a4748a7a.chunk.js",
+    "main.js.map": "/github-jobs-react-master/static/js/main.a4748a7a.chunk.js.map",
     "runtime-main.js": "/github-jobs-react-master/static/js/runtime-main.80a7bd15.js",
     "runtime-main.js.map": "/github-jobs-react-master/static/js/runtime-main.80a7bd15.js.map",
     "static/js/2.c9bb2d81.chunk.js": "/github-jobs-react-master/static/js/2.c9bb2d81.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.80a7bd15.js",
     "static/js/2.c9bb2d81.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.9f3c09bc.chunk.js"
+    "static/js/main.a4748a7a.chunk.js"
   ]
 }
