@@ -1,6 +1,6 @@
-import React from 'react'
+import React from "react"
 
-import { Form, Col } from 'react-bootstrap'
+import { Form, Col } from "react-bootstrap"
 
 export default function SearchForm({ params, onParamChange }) {
   return (
@@ -24,7 +24,7 @@ export default function SearchForm({ params, onParamChange }) {
             type="text"
           />
         </Form.Group>
-        <Form.Group as={ Col } xs="auto" className="ml-2">
+        <Form.Group as={Col} xs="auto" className="ml-2">
           <Form.Check
             onChange={onParamChange}
             value={params.full_time}
